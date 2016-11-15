@@ -10,6 +10,6 @@ font-family: 'Helvetica',sans-serif;
 <body> 
 <section> 
 <h1>Midterm Exam</h1> 
-<h2>IM1200 Basic Web Design</h2> 
-<h4>noura gari</h4>
+<h2>Fundamentals of Web Design | GWDA133 A</h2> 
+<h4>Isabel Cortright</h4>
 <h4>November 8,1016</h4> </section </body> </html>
